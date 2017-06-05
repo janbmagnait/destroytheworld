@@ -1,2 +1,2 @@
 # destroytheworld
-Sample github repository
+Sample github repository. Test only.
